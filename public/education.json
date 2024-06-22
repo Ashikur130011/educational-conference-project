@@ -1,0 +1,119 @@
+[
+  {
+    "key": 1,
+    "title": "International Education Fair 2024",
+    "author": {
+      "name": "Global Education Network",
+      "contact_email": "info@educationfair2024.org"
+    },
+    "img_url": "https://i.ibb.co/wc2Js0K/10141821.jpg",
+    "details": "The Internathttps://www.example.com/images/education-fair-banner.jpgional Education Fair 2024 brings together leading educators, institutions, and industry professionals to discuss the latest trends and innovations in education.",
+    "rating": 4.8,
+    "views": 12000,
+    "publish_date": "2024-01-15"
+  },
+  {
+    "key": 2,
+    "title": "STEM Education Expo",
+    "author": {
+      "name": "STEM Leaders Association",
+      "contact_email": "contact@stemexpo2024.com"
+    },
+    "img_url": "https://i.ibb.co/JngByfR/10017216.jpg",
+    "details": "The STEM Education Expo focuses on science, technology, engineering, and mathematics education, offering workshops, seminars, and networking opportunities for educators and students.",
+    "rating": 4.7,
+    "views": 9500,
+    "publish_date": "2024-02-10"
+  },
+  {
+    "key": 3,
+    "title": "Higher Education Summit",
+    "author": {
+      "name": "University Consortium",
+      "contact_email": "info@higheredsummit2024.com"
+    },
+    "img_url": "https://i.ibb.co/wc2Js0K/10141821.jpg",
+    "details": "The Higher Education Summit brings together university leaders, researchers, and policy makers to discuss the future of higher education and strategies for innovation and improvement.",
+    "rating": 4.9,
+    "views": 15000,
+    "publish_date": "2024-03-05"
+  },
+  {
+    "key": 4,
+    "title": "K-12 Education Conference",
+    "author": {
+      "name": "Education Advancement Group",
+      "contact_email": "info@k12conference2024.com"
+    },
+    "img_url": "https://i.ibb.co/JngByfR/10017216.jpg",
+    "details": "The K-12 Education Conference focuses on primary and secondary education, exploring new teaching methods, curriculum development, and classroom technologies.",
+    "rating": 4.6,
+    "views": 8000,
+    "publish_date": "2024-04-20"
+  },
+  {
+    "key": 5,
+    "title": "EdTech Innovations Fair",
+    "author": {
+      "name": "EdTech Innovators",
+      "contact_email": "support@edtechfair2024.com"
+    },
+    "img_url": "https://i.ibb.co/wc2Js0K/10141821.jpg",
+    "details": "The EdTech Innovations Fair showcases the latest technologies and tools for education, providing hands-on demonstrations, product launches, and expert talks.",
+    "rating": 4.7,
+    "views": 11000,
+    "publish_date": "2024-05-15"
+  },
+  {
+    "key": 6,
+    "title": "Global Education Expo",
+    "author": {
+      "name": "Education Worldwide",
+      "contact_email": "info@globaleducationexpo2024.com"
+    },
+    "img_url": "https://i.ibb.co/JngByfR/10017216.jpg",
+    "details": "The Global Education Expo covers various aspects of education from primary to higher education, focusing on global trends and best practices.",
+    "rating": 4.5,
+    "views": 9200,
+    "publish_date": "2024-06-01"
+  },
+  {
+    "key": 7,
+    "title": "Future of Learning Conference",
+    "author": {
+      "name": "Learning Futures Institute",
+      "contact_email": "info@futureoflearning2024.com"
+    },
+    "img_url": "https://i.ibb.co/wc2Js0K/10141821.jpg",
+    "details": "The Future of Learning Conference explores the impact of new technologies and methodologies on education, from AI to personalized learning.",
+    "rating": 4.8,
+    "views": 10500,
+    "publish_date": "2024-07-10"
+  },
+  {
+    "key": 8,
+    "title": "Innovative Education Forum",
+    "author": {
+      "name": "Innovative Education Network",
+      "contact_email": "info@innovativeeducation2024.com"
+    },
+    "img_url": "https://i.ibb.co/JngByfR/10017216.jpg",
+    "details": "The Innovative Education Forum highlights cutting-edge educational practices and technologies, featuring keynotes from industry leaders.",
+    "rating": 4.7,
+    "views": 8800,
+    "publish_date": "2024-08-05"
+  },
+  {
+    "key": 9,
+    "title": "Digital Learning Summit",
+    "author": {
+      "name": "Digital Learning Consortium",
+      "contact_email": "info@digitallearningsummit2024.com"
+    },
+    "img_url": "https://i.ibb.co/wc2Js0K/10141821.jpg",
+    "details": "The Digital Learning Summit focuses on the integration of digital tools in education, offering sessions on e-learning, virtual classrooms, and more.",
+    "rating": 4.9,
+    "views": 11200,
+    "publish_date": "2024-09-15"
+  }
+]
